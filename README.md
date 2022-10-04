@@ -10,5 +10,4 @@
 ### 【﻿Ｐｒｏｊｅｃｔｓ】 ###
 ### 【﻿Ｃｏｎｔｒｉｂｕｔｉｏｎｓ】 ###
 
-![Alt text](./controllers_brief.svg)
 <img src="./calendarISO.svg">

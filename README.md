@@ -19,7 +19,7 @@
 ![Jaydin's GitHub stats](https://github-readme-stats.vercel.app/api?username=debug-jay&show_icons=true&theme=radical)
 
 ### 【﻿Ｐｒｏｊｅｃｔｓ】 ###
-Below Introdruction
+<a href="https://github.com/debug-jay?preview=true&tab=repositories"> Repository Projects </a>
 ### 【﻿Ｃｏｎｔｒｉｂｕｔｉｏｎｓ】 ###
 
 <img src="./calendarISO.svg">
